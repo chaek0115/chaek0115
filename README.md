@@ -2,13 +2,13 @@
 <h3 align="left">A passionate Data Analyst | MSc Computer Science at Queen Mary University of London</h3> 
 <h3 align="left">B2B sales and marketing experience | psychology expertise</h3>
 
-- 🌱 I’m currently learning **Python, SQL, statistics, database management and software engineering**
+  🌱 I’m currently learning **Python, SQL, statistics, database management and software engineering**
 
-- 👀 I’m looking to collaborate on **Python and SQL-based project for healthcare analytics**
+  👀 I’m looking to collaborate on **Python and SQL-based project for healthcare analytics**
 
-- 🗣️ I speak **English(C1), Japanese(native), Korean(native) and German(A2)**
+  🗣️ I speak **English(C1), Japanese(native), Korean(native) and German(A2)**
 
-- 🌍 I've lived in **the U.K. (currently), Germany, Japan, Korea, the U.S.**
+  🌍 I've lived in **the U.K. (currently), Germany, Japan, Korea, the U.S.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
