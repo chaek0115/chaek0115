@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Ellie</h1>
-<h3 align="center">A passionate Data Analyst | MSc Computer Science at Queen Mary University of London | B2B sales and marketing experience | psychology expertise</h3>
+<h3 align="center">A passionate Data Analyst | MSc Computer Science at Queen Mary University of London</h3>
+<h3 align="center">B2B sales and marketing experience | psychology expertise</h3>
 
 - 🌱 I’m currently learning **Python, SQL, statistics, database management and software engineering**
 
 - 👯 I’m looking to collaborate on **Python and SQL-based project for healthcare analytics**
 
-- 🗣️ I speak **English (C1), Korean (native), Japanese (native)**
+- 🗣️ I speak **English (C1), Korean (native), Japanese (native), German (B1)**
 
 - 🌍 I've lived in **the U.K. (currently), Germany, Japan, Korea, the U.S.**
 
