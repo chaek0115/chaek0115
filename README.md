@@ -2,9 +2,9 @@
 <h3 align="left">A passionate Data Analyst | MSc Computer Science at Queen Mary University of London</h3> 
 <h3 align="left">B2B sales and marketing experience | psychology expertise</h3>
 
-  🌱 I’m currently learning **Python, SQL, statistics, database management and software engineering**
+  🌱 I’m currently learning **Python, SQL, statistics, database management, software engineering and designing, and cybersecurity**
 
-  👀 I’m looking to collaborate on **Python and SQL-based project for healthcare analytics**
+  👀 I’m looking to collaborate on **Python and SQL-based project for healthcare and commercial analytics**
 
   🗣️ I speak **English(C1), Japanese(native), Korean(native) and German(A2)**
 
