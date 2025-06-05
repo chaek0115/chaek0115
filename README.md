@@ -1,4 +1,4 @@
-<h1 align="left">Hi, I'm Ellie </h1>
+<h1 align="left">Hi, I'm Eunkyung </h1>
 <h3 align="left">A passionate Data Analyst | MSc Computer Science at Queen Mary University of London</h3> 
 <h3 align="left">B2B sales and marketing experience | psychology expertise</h3>
 
